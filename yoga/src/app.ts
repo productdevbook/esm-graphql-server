@@ -1,4 +1,4 @@
-import 'reflect-metadata'
+import '@abraham/reflection'
 import { createYoga } from 'graphql-yoga'
 import fastify, {
   FastifyReply,

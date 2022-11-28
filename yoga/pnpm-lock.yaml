@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@abraham/reflection': ^0.11.0
   '@envelop/graphql-modules': 4.0.4
   '@graphql-tools/load-files': 6.6.1
   '@types/node': 18.11.9
@@ -14,6 +15,7 @@ specifiers:
   typescript: ^4.9.3
 
 dependencies:
+  '@abraham/reflection': 0.11.0
   '@envelop/graphql-modules': 4.0.4_y47avxfzvkcjz6cux2uol3xpke
   '@graphql-tools/load-files': 6.6.1_graphql@16.6.0
   fastify: 4.10.2
@@ -29,6 +31,10 @@ devDependencies:
   tsx: 3.12.1
 
 packages:
+
+  /@abraham/reflection/0.11.0:
+    resolution: {integrity: sha512-lCPIgtjeiZ7ZWLPP5RiAmGAyw5I0dHMt0GzzKZVZiZ48lNC0sGnmTzKITEtOlZevylf0sf5vjhbEmByuQMQE9Q==}
+    dev: false
 
   /@cspotcode/source-map-support/0.8.1:
     resolution: {integrity: sha512-IchNf6dN4tHoMFIn/7OE8LWZ19Y6q/67Bmf6vnGREv8RSbBVb9LPJxEcnwrcwX6ixSvaiGoomAUvu4YSxXrVgw==}
