@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "experimentalDecorators": true,
     "rootDirs": ["src"],
     "outDir": "dist",
     "lib": ["es2020"],
